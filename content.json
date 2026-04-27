@@ -18,7 +18,7 @@
     ],
     "location": "Banjaran, Kab. Bandung, Indonesia",
     "bio": "Berpengalaman di berbagai bidang dari pertahanan, IoT, perbankan, akuntansi, CMS, hingga sertifikasi sejak 2022.",
-    "image": "/assets/profile.jpg",
+    "image": "/assets/profile.webp",
     "socials": {
       "email": "kelvindm7102@gmail.com",
       "whatsapp": "+62 83822355642",
@@ -220,12 +220,9 @@
           ]
         }
       ],
-      "image": "/assets/project/das.jpg",
+      "image": "/assets/project/das.webp",
       "categorizing": "FULLSTACK",
-      "gallery": [
-        "/assets/project/das.jpg",
-        "/assets/company/basys.webp"
-      ],
+      "gallery": [],
       "link": "",
       "github": "",
       "isHighlight": true,
@@ -270,7 +267,7 @@
           ]
         }
       ],
-      "image": "/assets/project/intellecta.jpg",
+      "image": "/assets/project/intellecta.webp",
       "categorizing": "FULLSTACK",
       "gallery": [],
       "link": "",
@@ -318,7 +315,7 @@
           ]
         }
       ],
-      "image": "/assets/project/qoffice.jpg",
+      "image": "/assets/project/qoffice.webp",
       "categorizing": "FULLSTACK",
       "gallery": [],
       "link": "",
@@ -366,7 +363,7 @@
           ]
         }
       ],
-      "image": "/assets/project/samcollection.jpg",
+      "image": "/assets/project/samcollection.webp",
       "categorizing": "FULLSTACK",
       "gallery": [],
       "link": "",
@@ -404,7 +401,7 @@
           ]
         }
       ],
-      "image": "/assets/project/recon.jpg",
+      "image": "/assets/project/recon.webp",
       "categorizing": "BACKEND",
       "gallery": [],
       "link": "",
@@ -440,7 +437,7 @@
           "frameworkIds": []
         }
       ],
-      "image": "/assets/project/mpg.jpg",
+      "image": "/assets/project/mpg.webp",
       "categorizing": "BACKEND",
       "gallery": [],
       "link": "",
@@ -466,7 +463,7 @@
           ]
         }
       ],
-      "image": "/assets/project/sipd.jpg",
+      "image": "/assets/project/sipd.webp",
       "categorizing": "BACKEND",
       "gallery": [],
       "link": "",
@@ -483,12 +480,12 @@
       "description": "Antidrone adalah proyek Pusat Kesenjataan Artileri Pertahanan Udara untuk menghalau drone musuh dengan mengacaukan sistem jaringan remote menggunakan Drone Jammer, sehingga musuh kehilangan kendali dan kehilangan Drone miliknya.",
       "position": "Backend + IoT",
       "techstack": [],
-      "image": "/assets/project/antidrone.jpg",
+      "image": "/assets/project/antidrone.webp",
       "categorizing": "BACKEND",
       "gallery": [
-        "/assets/project/extras/antidrone.mp4",
-        "/assets/project/extras/antidrone-system-test.jpg",
-        "/assets/project/extras/antidrone-uat.mp4"
+        "/assets/project/extras/antidrone.webm",
+        "/assets/project/extras/antidrone-system-test.webp",
+        "/assets/project/extras/antidrone-uat.webm"
       ],
       "link": "",
       "github": "",
@@ -536,11 +533,11 @@
           ]
         }
       ],
-      "image": "/assets/project/simpan.jpg",
+      "image": "/assets/project/simpan.webp",
       "categorizing": "BACKEND",
       "gallery": [
-        "/assets/project/extras/simpan.mp4",
-        "/assets/project/extras/simpan-bigscreen.jpg"
+        "/assets/project/extras/simpan.webm",
+        "/assets/project/extras/simpan-bigscreen.webp"
       ],
       "link": "",
       "github": "",
@@ -578,13 +575,13 @@
           ]
         }
       ],
-      "image": "/assets/project/ptta.jpg",
+      "image": "/assets/project/ptta.webp",
       "categorizing": "BACKEND",
       "gallery": [
-        "/assets/project/extras/ptta.mp4",
-        "/assets/project/extras/heatmap.jpg",
-        "/assets/project/extras/ptta-camera.jpg",
-        "/assets/project/extras/ptta-camera-test.jpg"
+        "/assets/project/extras/ptta.webm",
+        "/assets/project/extras/heatmap.webp",
+        "/assets/project/extras/ptta-camera.webp",
+        "/assets/project/extras/ptta-camera-test.webp"
       ],
       "link": "",
       "github": "",
@@ -626,11 +623,11 @@
           ]
         }
       ],
-      "image": "/assets/project/holomatrix.jpg",
+      "image": "/assets/project/holomatrix.webp",
       "categorizing": "BACKEND",
       "gallery": [
-        "/assets/project/extras/holomatrix.mp4",
-        "/assets/project/extras/holomatrix-pandu.jpg"
+        "/assets/project/extras/holomatrix.webm",
+        "/assets/project/extras/holomatrix-pandu.webp"
       ],
       "link": "",
       "github": "",
@@ -667,7 +664,7 @@
           ]
         }
       ],
-      "image": "/assets/project/redeye.jpg",
+      "image": "/assets/project/redeye.webp",
       "categorizing": "OTHER",
       "gallery": [],
       "link": "",
@@ -685,7 +682,7 @@
       "description": "Catering Management System merupakan sistem untuk mengelola keuangan dan faktur pemesanan catering untuk berbagai acara yang disediakan oleh AsparagusCatering Bandung. Selain itu, ada manajemen paket dan pembuatan daftar belanja otomatis berdasarkan jenis dan jumlah paket yang telah dipesan.",
       "position": "Fullstack Flask + Next.js",
       "techstack": [],
-      "image": "/assets/project/asparagus.jpg",
+      "image": "/assets/project/asparagus.webp",
       "categorizing": "FULLSTACK",
       "gallery": [],
       "link": "",
@@ -718,7 +715,7 @@
           ]
         }
       ],
-      "image": "/assets/project/nov-pks.jpg",
+      "image": "/assets/project/nov-pks.webp",
       "categorizing": "OTHER",
       "gallery": [],
       "link": "",
@@ -731,7 +728,7 @@
     {
       "techId": "JAVA",
       "techName": "Java",
-      "techIcon": "/assets/techstack/java.jpg",
+      "techIcon": "/assets/techstack/java.webp",
       "techColor": "#f89820",
       "techType": "Backend",
       "description": "Bahasa pemrograman battle-tested oleh perbankan dan instansi dengan skala besar.",
@@ -749,7 +746,7 @@
     {
       "techId": "PYTHON",
       "techName": "Python",
-      "techIcon": "/assets/techstack/python.jpg",
+      "techIcon": "/assets/techstack/python.webp",
       "techColor": "#3776ab",
       "techType": "Backend & Scripts",
       "description": "Bahasa pemrograman scripting yang sangat fleksibel dan didukung komunitas yang besar.",
@@ -758,7 +755,7 @@
     {
       "techId": "SQL",
       "techName": "SQL",
-      "techIcon": "/assets/techstack/sql.jpg",
+      "techIcon": "/assets/techstack/sql.webp",
       "techColor": "#336791",
       "techType": "Database",
       "description": "Basis data terstruktur yang sudah digunakan mayoritas teknologi saat ini.",
@@ -776,7 +773,7 @@
     {
       "techId": "SVC",
       "techName": "Caching & Messaging",
-      "techIcon": "/assets/techstack/redis.jpg",
+      "techIcon": "/assets/techstack/redis.webp",
       "techColor": "#dc382d",
       "techType": "Services",
       "description": "Layanan pendukung dalam menyimpan data sementara dan cache serta mengirim pesan dengan sangat cepat.",
@@ -796,7 +793,7 @@
     {
       "frameworkId": "JAKARTA",
       "frameworkName": "Jakarta EE",
-      "frameworkIcon": "/assets/framework/jakartaee.jpg",
+      "frameworkIcon": "/assets/framework/jakartaee.webp",
       "frameworkColor": "#ee2b2f",
       "techId": "JAVA"
     },
@@ -810,21 +807,21 @@
     {
       "frameworkId": "JPA",
       "frameworkName": "JPA",
-      "frameworkIcon": "/assets/framework/jpa.jpg",
+      "frameworkIcon": "/assets/framework/jpa.webp",
       "frameworkColor": "#59666c",
       "techId": "JAVA"
     },
     {
       "frameworkId": "NODEJS",
       "frameworkName": "Node.js",
-      "frameworkIcon": "/assets/framework/node.jpg",
+      "frameworkIcon": "/assets/framework/node.webp",
       "frameworkColor": "#339933",
       "techId": "JS"
     },
     {
       "frameworkId": "NEXTJS",
       "frameworkName": "Next.js",
-      "frameworkIcon": "/assets/framework/next.jpg",
+      "frameworkIcon": "/assets/framework/next.webp",
       "frameworkColor": "#ffffff",
       "techId": "JS"
     },
@@ -838,14 +835,14 @@
     {
       "frameworkId": "FLASK",
       "frameworkName": "Flask",
-      "frameworkIcon": "/assets/framework/flask.jpg",
+      "frameworkIcon": "/assets/framework/flask.webp",
       "frameworkColor": "#ffffff",
       "techId": "PYTHON"
     },
     {
       "frameworkId": "SELENIUM",
       "frameworkName": "Selenium",
-      "frameworkIcon": "/assets/framework/selenium.jpg",
+      "frameworkIcon": "/assets/framework/selenium.webp",
       "frameworkColor": "#43b02a",
       "techId": "PYTHON"
     },
@@ -859,7 +856,7 @@
     {
       "frameworkId": "ARDUINO",
       "frameworkName": "Arduino",
-      "frameworkIcon": "/assets/framework/arduino.jpg",
+      "frameworkIcon": "/assets/framework/arduino.webp",
       "frameworkColor": "#00979d",
       "techId": "CPP"
     },
@@ -873,21 +870,21 @@
     {
       "frameworkId": "POSTGRES",
       "frameworkName": "PostgreSQL",
-      "frameworkIcon": "/assets/framework/psql.jpg",
+      "frameworkIcon": "/assets/framework/psql.webp",
       "frameworkColor": "#336791",
       "techId": "SQL"
     },
     {
       "frameworkId": "MARIADB",
       "frameworkName": "MariaDB",
-      "frameworkIcon": "/assets/framework/mariadb.jpg",
+      "frameworkIcon": "/assets/framework/mariadb.webp",
       "frameworkColor": "#003545",
       "techId": "SQL"
     },
     {
       "frameworkId": "REDIS",
       "frameworkName": "Redis",
-      "frameworkIcon": "/assets/framework/redis.jpg",
+      "frameworkIcon": "/assets/framework/redis.webp",
       "frameworkColor": "#dc382d",
       "techId": "SVC"
     },
@@ -901,7 +898,7 @@
     {
       "frameworkId": "FCM",
       "frameworkName": "FCM",
-      "frameworkIcon": "/assets/framework/mqtt.jpg",
+      "frameworkIcon": "/assets/framework/mqtt.webp",
       "frameworkColor": "#ffca28",
       "techId": "SVC"
     },
@@ -922,28 +919,28 @@
     {
       "frameworkId": "REACT",
       "frameworkName": "React",
-      "frameworkIcon": "/assets/framework/react.jpg",
+      "frameworkIcon": "/assets/framework/react.webp",
       "frameworkColor": "#5938ff",
       "techId": "JS"
     },
     {
       "frameworkId": "PY-OPENCV",
       "frameworkName": "OpenCV",
-      "frameworkIcon": "/assets/framework/opencvpython.jpg",
+      "frameworkIcon": "/assets/framework/opencvpython.webp",
       "frameworkColor": "#ffffff",
       "techId": "PYTHON"
     },
     {
       "frameworkId": "TAILWIND",
       "frameworkName": "Tailwind",
-      "frameworkIcon": "/assets/framework/tailwind.jpg",
+      "frameworkIcon": "/assets/framework/tailwind.webp",
       "frameworkColor": "#38bdf8",
       "techId": "JS"
     },
     {
       "frameworkId": "SHADCN",
       "frameworkName": "Shadcn",
-      "frameworkIcon": "/assets/framework/shadcn.jpg",
+      "frameworkIcon": "/assets/framework/shadcn.webp",
       "frameworkColor": "#ffffff",
       "techId": "JS"
     },
@@ -977,7 +974,7 @@
       "description": "Nexin Inovasi Sejahtera (kini Nexin Maya Vision) merupakan perusahaan vendor di bidang Defense Military dengan client dari TNI dan POLRI. Memiliki client seperti PUSSENARMED, PUSSENARHANUD, PUSSIMPUR, PUSSENIF dan lainnya.",
       "isFreelance": false,
       "position": "Backend & IoT Engineer",
-      "image": "/assets/company/nexin.jpg",
+      "image": "/assets/company/nexin.webp",
       "gallery": [],
       "link": "",
       "isHighlight": true,
@@ -991,7 +988,7 @@
       "description": "Sebuah usaha perorangan yang mengerjakan berbagai macam project IT.",
       "isFreelance": true,
       "position": "Fullstack + Networking Engineer",
-      "image": "/assets/company/kawansecuan.jpg",
+      "image": "/assets/company/kawansecuan.webp",
       "gallery": [],
       "link": "",
       "isHighlight": true,
@@ -1004,7 +1001,7 @@
       "description": "Sebuah Tim yang menerima pembuatan Website, CMS dan Landing Page.",
       "isFreelance": true,
       "position": "Fullstack Developer",
-      "image": "/assets/company/novative.jpg",
+      "image": "/assets/company/novative.webp",
       "gallery": [],
       "link": "",
       "isHighlight": true,
@@ -1018,7 +1015,7 @@
       "description": "Panggilan merancang dan membangun jaringan berskala kecil dengan MikroTik serta design login Captive Hotspot dengan HTML+CSS+JS",
       "isFreelance": true,
       "position": "Network Engineer",
-      "image": "/assets/company/jaringan.jpg",
+      "image": "/assets/company/jaringan.webp",
       "gallery": [],
       "link": "",
       "isHighlight": false,
@@ -1032,7 +1029,7 @@
       "degree": "Sarjana Komputer (S.Kom)",
       "time": "2021 - 2025",
       "description": "Menyelesaikan pendidikan berkelanjutan dengan peminatan dan fokus mendalam terhadap rekayasa perangkat lunak serta sistem data terintegrasi.",
-      "image": "/assets/education/ars.jpg",
+      "image": "/assets/education/ars.webp",
       "book": "Implementasi Sistem Pelaporan Bug Online untuk Mendukung Responsivitas Tim IT di PT BAYU SINERGI SOLUSI",
       "techstack": [
         "JAVA",
@@ -1047,7 +1044,7 @@
       "degree": "Teknik Komputer & Jaringan",
       "time": "2016 - 2019",
       "description": "Menyelesaikan pendidikan berkelanjutan dengan peminatan dan fokus mendalam terhadap sistem komputer, bahasa pemrograman dasar hingga jaringan komputer.",
-      "image": "/assets/education/skyone.jpg",
+      "image": "/assets/education/skyone.webp",
       "book": "",
       "techstack": [
         "CPP",
