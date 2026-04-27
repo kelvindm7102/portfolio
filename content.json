@@ -1,0 +1,1059 @@
+{
+  "card": {
+    "name": [
+      {
+        "text": "Kelvin D. Marlian",
+        "isBold": true
+      },
+      {
+        "text": " S.Kom."
+      }
+    ],
+    "title": [
+      {
+        "text": "Software Engineer",
+        "isAccent": true,
+        "isBold": true
+      }
+    ],
+    "location": "Banjaran, Kab. Bandung, Indonesia",
+    "bio": "Berpengalaman di berbagai bidang dari pertahanan, IoT, perbankan, akuntansi, CMS, hingga sertifikasi sejak 2022.",
+    "image": "/assets/profile.jpg",
+    "socials": {
+      "email": "kelvindm7102@gmail.com",
+      "whatsapp": "+62 83822355642",
+      "telegram": "@kelvindm7102",
+      "linkedin": "kelvindm7102",
+      "instagram": "@kelvindm7102",
+      "github": "kelvindm7102"
+    },
+    "workingSince": "2022-02-07"
+  },
+  "headers": {
+    "home": {
+      "title": [
+        {
+          "text": "Software ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Engineer.",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "description": "Berfokus pada pengembangan sistem enterprise scalable, menguasai backend (Java Spring Boot, Python) dan frontend (React.js, Next.js), serta berfokus pada solusi end-to-end yang efisien dan peningkatan performa sistem.",
+      "stats": [
+        {
+          "label": "TAHUN PENGALAMAN",
+          "value": "+4"
+        },
+        {
+          "label": "PROJECT DIKERJAKAN",
+          "value": "+16"
+        },
+        {
+          "label": "PERUSAHAAN BEKERJA",
+          "value": "2"
+        },
+        {
+          "label": "CLIENT FREELANCE",
+          "value": "+3"
+        }
+      ]
+    },
+    "projects": {
+      "highlightTitle": [
+        {
+          "text": "Project ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Unggulan",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "title": [
+        {
+          "text": "Semua ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Project.",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "description": "Daftar project teknologi yang pernah saya kerjakan. Semua project yang ada di dalam daftar ini merupakan project yang sudah mendapat persetujuan atau telah dipublikasi dan/atau digunakan.",
+      "stats": [
+        {
+          "label": "TOTAL PROJECT",
+          "value": "+16"
+        },
+        {
+          "label": "PROJECT FULLSTACK",
+          "value": "+4"
+        },
+        {
+          "label": "PROJECT BACKEND",
+          "value": "+20"
+        },
+        {
+          "label": "PROJECT LAINNYA",
+          "value": "2"
+        }
+      ]
+    },
+    "techstack": {
+      "highlightTitle": [
+        {
+          "text": "Teknologi yang ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Dikuasai",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "title": [
+        {
+          "text": "Semua ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Teknologi.",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "description": "Daftar lengkap teknologi, framework, dan tools yang pernah saya pelajari dan saya gunakan untuk membangun berbagai macam sistem."
+    },
+    "experiences": {
+      "highlightTitle": [
+        {
+          "text": "Pengalaman ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Berkarir",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "title": [
+        {
+          "text": "Pengalaman ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Karir.",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "description": "Daftar perjalanan karir saya di berbagai organisasi dan perusahaan IT, mencakup riwayat posisi, tanggung jawab, serta proyek yang saya kerjakan."
+    },
+    "education": {
+      "title": [
+        {
+          "text": "Riwayat ",
+          "isBold": true,
+          "lineBreak": true
+        },
+        {
+          "text": "Pendidikan.",
+          "isAccent": true,
+          "isBold": true
+        }
+      ],
+      "description": "Daftar instansi, riwayat pembelajaran, dan latar belakang pendidikan formal yang telah saya tempuh."
+    }
+  },
+  "projects": [
+    {
+      "projectId": "BASYS-DAS",
+      "title": "Digital Attendance",
+      "companyId": "BASYS",
+      "timespan": "2025 - 2026",
+      "isFreelance": false,
+      "description": "Sistem Manajemen Jadwal Karyawan Multi-Tenant ready, yang terintegrasi dengan RFID dan NFC sebagai alat absensi, serta dilengkapi dengan Digital Realtime Monitor Display untuk menampilkan semua kehadiran, jadwal dan peringkat karyawan.",
+      "position": "Fullstack Java + Next.js",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "SPRING",
+            "JAKARTA",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NEXTJS",
+            "TAILWIND",
+            "REACT",
+            "SHADCN"
+          ]
+        },
+        {
+          "techId": "CPP",
+          "frameworkIds": [
+            "ESP"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "REDIS",
+            "FCM",
+            "SOCKET"
+          ]
+        }
+      ],
+      "image": "/assets/project/das.jpg",
+      "categorizing": "FULLSTACK",
+      "gallery": [
+        "/assets/project/das.jpg",
+        "/assets/company/basys.webp"
+      ],
+      "link": "",
+      "github": "",
+      "isHighlight": true,
+      "companyName": "PT Bayu Sinergi Solusi"
+    },
+    {
+      "projectId": "BASYS-ELEARNING",
+      "title": "Intellecta E-Elearning",
+      "companyId": "BASYS",
+      "timespan": "2025",
+      "isFreelance": false,
+      "description": "Platform pembelajaran berbasis video yang terintegrasi dengan lembaga sertifikasi profesi resmi di Indonesia. Platform ini dapat digunakan oleh individu, maupun perusahaan atau instansi sebagai pendukung kebutuhan sertifikat resmi.",
+      "position": "Fullstack Java + Next.js",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "SPRING",
+            "JAKARTA",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NEXTJS",
+            "TAILWIND",
+            "REACT"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "POSTGRES"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "REDIS",
+            "FCM"
+          ]
+        }
+      ],
+      "image": "/assets/project/intellecta.jpg",
+      "categorizing": "FULLSTACK",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": true,
+      "companyName": "PT Bayu Sinergi Solusi"
+    },
+    {
+      "projectId": "BASYS-QOFFICE",
+      "title": "QOffice",
+      "companyId": "BASYS",
+      "companyName": "PT Bayu Sinergi Solusi",
+      "timespan": "2025",
+      "isFreelance": false,
+      "description": "Q-Office adalah aplikasi e-office (electronic office) yang dirancang untuk mendigitalisasi proses administrasi dan komunikasi di lingkungan kerja, baik instansi pemerintah maupun perusahaan swasta. Dengan aplikasi ini, manajemen dokumen, surat menyurat, disposisi, hingga arsip digital menjadi lebih efisien, cepat, dan terintegrasi.",
+      "position": "Fullstack Java + Next.js",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "JAKARTA",
+            "SPRING",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "POSTGRES"
+          ]
+        },
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NEXTJS",
+            "TAILWIND",
+            "SHADCN"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "REDIS",
+            "FCM"
+          ]
+        }
+      ],
+      "image": "/assets/project/qoffice.jpg",
+      "categorizing": "FULLSTACK",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false
+    },
+    {
+      "projectId": "SAM-COL",
+      "title": "SAM Collection",
+      "companyId": "BASYS",
+      "companyName": "PT Bayu Sinergi Solusi",
+      "timespan": "2024-2025",
+      "isFreelance": false,
+      "description": "SAM Collection adalah project bank untuk memantau mengelola data penagihan pinjaman Bank Kalteng sekaligus menghitung KOL dari nasabah peminjam. Terhubung ke aplikasi mobile yang diinstall oleh petugas debt-collector untuk mengupload histori interaksi penagihan ke dalam sistem.",
+      "position": "Fullstack Java + Next.js",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "JAKARTA",
+            "SPRING",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NEXTJS",
+            "REACT",
+            "TAILWIND",
+            "SHADCN"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "REDIS",
+            "FCM"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "POSTGRES"
+          ]
+        }
+      ],
+      "image": "/assets/project/samcollection.jpg",
+      "categorizing": "FULLSTACK",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false
+    },
+    {
+      "projectId": "BASYS-RECON",
+      "title": "Autorecon",
+      "companyId": "BASYS",
+      "companyName": "PT Bayu Sinergi Solusi",
+      "timespan": "2023 - 2026",
+      "isFreelance": false,
+      "description": "Autorecon merupakan layanan rekonsiliasi transaksi harian bank. Aplikasi ini berhasil memangkas pencocokan dan pencarian jutaan transaksi gagal dari sehari menjadi sangat singkat.",
+      "position": "Backend",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "JAKARTA",
+            "SPRING",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "POSTGRES"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "REDIS"
+          ]
+        }
+      ],
+      "image": "/assets/project/recon.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": true
+    },
+    {
+      "projectId": "BASYS-MPG",
+      "title": "MPG",
+      "companyId": "BASYS",
+      "companyName": "PT Bayu Sinergi Solusi",
+      "timespan": "2024",
+      "isFreelance": false,
+      "description": "MPG adalah gerbang yang mengatur semua layanan pembayaran dari Core Banking System maupun vendor seperti Finnet, SKN/RTGS, MPN, QRIS, BiFast dan transaksi lainnya agar semua aplikasi bank seperti M-Banking, I-Banking dan SIPD dapat menggunakan satu server dan format transaksi yang serasi.",
+      "position": "Backend Microservice",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "JAKARTA",
+            "SPRING",
+            "JPA"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "POSTGRES"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": []
+        }
+      ],
+      "image": "/assets/project/mpg.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false
+    },
+    {
+      "projectId": "BASYS-SIPD",
+      "title": "Host to Host SIPD",
+      "companyId": "BASYS",
+      "companyName": "PT Bayu Sinergi Solusi",
+      "timespan": "2024 - 2025",
+      "isFreelance": false,
+      "description": "Sebuah microservices Bank Kalteng untuk integrasi sistem pembayaran SIPD ke Core Banking System Bank Kalteng",
+      "position": "Backend Host to Host",
+      "techstack": [
+        {
+          "techId": "JAVA",
+          "frameworkIds": [
+            "JAKARTA",
+            "SPRING",
+            "JPA"
+          ]
+        }
+      ],
+      "image": "/assets/project/sipd.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false
+    },
+    {
+      "projectId": "NEX-ANTIDRONE",
+      "title": "AntiDrone",
+      "companyId": "NEXIN",
+      "companyName": "PT Nexin Inovasi Sejahtera",
+      "timespan": "2023",
+      "isFreelance": false,
+      "description": "Antidrone adalah proyek Pusat Kesenjataan Artileri Pertahanan Udara untuk menghalau drone musuh dengan mengacaukan sistem jaringan remote menggunakan Drone Jammer, sehingga musuh kehilangan kendali dan kehilangan Drone miliknya.",
+      "position": "Backend + IoT",
+      "techstack": [],
+      "image": "/assets/project/antidrone.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [
+        "/assets/project/extras/antidrone.mp4",
+        "/assets/project/extras/antidrone-system-test.jpg",
+        "/assets/project/extras/antidrone-uat.mp4"
+      ],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "educationId": ""
+    },
+    {
+      "projectId": "NEX-SIMPAN",
+      "title": "Simulasi Pandang",
+      "companyId": "NEXIN",
+      "companyName": "PT Nexin Inovasi Sejahtera",
+      "timespan": "2023",
+      "isFreelance": false,
+      "description": "Simulasi Pandang adalah simulasi First Person Shooter berbasis AR Microsoft HoloLens yang menyatukan ruang dunia nyata dengan dunia virtual. Project ini diperuntukan untuk simulasi pertempuran bersenjata oleh Pusat Simulasi Tempur (PUSSIMPUR) Bandung.",
+      "position": "Backend + IoT",
+      "techstack": [
+        {
+          "techId": "PYTHON",
+          "frameworkIds": [
+            "FLASK"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "MARIADB"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "MQTT"
+          ]
+        },
+        {
+          "techId": "CPP",
+          "frameworkIds": [
+            "ESP"
+          ]
+        },
+        {
+          "techId": "NETWORK",
+          "frameworkIds": [
+            "MIKROTIK"
+          ]
+        }
+      ],
+      "image": "/assets/project/simpan.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [
+        "/assets/project/extras/simpan.mp4",
+        "/assets/project/extras/simpan-bigscreen.jpg"
+      ],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "educationId": ""
+    },
+    {
+      "projectId": "NEX-PTTA",
+      "title": "PTTA",
+      "companyId": "NEXIN",
+      "companyName": "PT Nexin Inovasi Sejahtera",
+      "timespan": "2022-2023",
+      "isFreelance": false,
+      "description": "Sebuah project Unmanned UAV (Pesawat Terbang Tanpa Awak) PUSSENARMED untuk membuat pesawat tanpa awak yang terintegrasi dengan kamera PTZ dan sensor jarak untuk mengetahui jarak pesawat dengan objek yang disorot kamera pesawat.",
+      "position": "Backend & IoT",
+      "techstack": [
+        {
+          "techId": "PYTHON",
+          "frameworkIds": [
+            "FLASK",
+            "PY-OPENCV"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "MARIADB"
+          ]
+        },
+        {
+          "techId": "CPP",
+          "frameworkIds": [
+            "ARDUINO",
+            "RPI"
+          ]
+        }
+      ],
+      "image": "/assets/project/ptta.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [
+        "/assets/project/extras/ptta.mp4",
+        "/assets/project/extras/heatmap.jpg",
+        "/assets/project/extras/ptta-camera.jpg",
+        "/assets/project/extras/ptta-camera-test.jpg"
+      ],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "educationId": ""
+    },
+    {
+      "projectId": "NEXIN-HOLOMATRIX",
+      "title": "Holomatrix",
+      "companyId": "NEXIN",
+      "timespan": "2022 - 2023",
+      "isFreelance": false,
+      "description": "Project besar PUSSIMPUR yang meliputi Ujian Penyuratan Tugas TNI terpusat untuk simulasikan bagaimana TNI yang bertugas saling berkomunikasi dengan surat melalui software ini, serta 3D dinamika untuk menampilkan simulasi perang dengan berbagai object 3D yang interaktif.",
+      "position": "Backend & IoT",
+      "techstack": [
+        {
+          "techId": "PYTHON",
+          "frameworkIds": [
+            "FLASK"
+          ]
+        },
+        {
+          "techId": "CPP",
+          "frameworkIds": [
+            "ESP",
+            "ARDUINO"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "MQTT"
+          ]
+        },
+        {
+          "techId": "SQL",
+          "frameworkIds": [
+            "MARIADB"
+          ]
+        }
+      ],
+      "image": "/assets/project/holomatrix.jpg",
+      "categorizing": "BACKEND",
+      "gallery": [
+        "/assets/project/extras/holomatrix.mp4",
+        "/assets/project/extras/holomatrix-pandu.jpg"
+      ],
+      "link": "",
+      "github": "",
+      "isHighlight": true,
+      "companyName": "PT Nexin Inovasi Sejahtera"
+    },
+    {
+      "projectId": "KS-REDEYE",
+      "title": "RED-EYE",
+      "companyId": "KAWANSECUAN",
+      "timespan": "2023",
+      "isFreelance": true,
+      "description": "Network Watchdog service untuk menganalisa penggunaan internet melalui tracing query DNS pada sebuah jaringan Mikrotik secara realtime dan mengelompokkannya ke dalam beberapa kategori.",
+      "position": "IoT & Web",
+      "techstack": [
+        {
+          "techId": "PYTHON",
+          "frameworkIds": [
+            "FLASK"
+          ]
+        },
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NODEJS",
+            "TAILWIND",
+            "REACT"
+          ]
+        },
+        {
+          "techId": "NETWORK",
+          "frameworkIds": [
+            "MIKROTIK"
+          ]
+        }
+      ],
+      "image": "/assets/project/redeye.jpg",
+      "categorizing": "OTHER",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "companyName": "KawanSecuan"
+    },
+    {
+      "projectId": "NOV-ASPARAGUS",
+      "title": "Catering Management System",
+      "companyId": "NOVATIVE",
+      "companyName": "Novative",
+      "timespan": "2023",
+      "isFreelance": true,
+      "description": "Catering Management System merupakan sistem untuk mengelola keuangan dan faktur pemesanan catering untuk berbagai acara yang disediakan oleh AsparagusCatering Bandung. Selain itu, ada manajemen paket dan pembuatan daftar belanja otomatis berdasarkan jenis dan jumlah paket yang telah dipesan.",
+      "position": "Fullstack Flask + Next.js",
+      "techstack": [],
+      "image": "/assets/project/asparagus.jpg",
+      "categorizing": "FULLSTACK",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "educationId": ""
+    },
+    {
+      "projectId": "NOV-KARSYS",
+      "title": "Personal Karaoke System",
+      "companyId": "NOVATIVE",
+      "companyName": "Novative",
+      "timespan": "2023",
+      "isFreelance": true,
+      "description": "Project pribadi untuk memutar video karaoke yang dapat terhubung ke web ponsel menggunakan MQTT untuk kontrol dan menambah antrian. Project ini akhirnya dilanjutkan oleh salah satu kenalan di Novative.",
+      "position": "Desktop Electron",
+      "techstack": [
+        {
+          "techId": "JS",
+          "frameworkIds": [
+            "NODEJS",
+            "ELECTRON",
+            "REACT"
+          ]
+        },
+        {
+          "techId": "SVC",
+          "frameworkIds": [
+            "MQTT"
+          ]
+        }
+      ],
+      "image": "/assets/project/nov-pks.jpg",
+      "categorizing": "OTHER",
+      "gallery": [],
+      "link": "",
+      "github": "",
+      "isHighlight": false,
+      "educationId": ""
+    }
+  ],
+  "techstack": [
+    {
+      "techId": "JAVA",
+      "techName": "Java",
+      "techIcon": "/assets/techstack/java.jpg",
+      "techColor": "#f89820",
+      "techType": "Backend",
+      "description": "Bahasa pemrograman battle-tested oleh perbankan dan instansi dengan skala besar.",
+      "isHighlight": true
+    },
+    {
+      "techId": "JS",
+      "techName": "Type/Javascript",
+      "techIcon": "/assets/techstack/ts.webp",
+      "techColor": "#f7df1e",
+      "techType": "Frontend & Backend",
+      "description": "Bahasa pemrograman scripting yang kuat dalam teknologi web, lalu merambah ke backend, desktop dan lainnya.",
+      "isHighlight": true
+    },
+    {
+      "techId": "PYTHON",
+      "techName": "Python",
+      "techIcon": "/assets/techstack/python.jpg",
+      "techColor": "#3776ab",
+      "techType": "Backend & Scripts",
+      "description": "Bahasa pemrograman scripting yang sangat fleksibel dan didukung komunitas yang besar.",
+      "isHighlight": true
+    },
+    {
+      "techId": "SQL",
+      "techName": "SQL",
+      "techIcon": "/assets/techstack/sql.jpg",
+      "techColor": "#336791",
+      "techType": "Database",
+      "description": "Basis data terstruktur yang sudah digunakan mayoritas teknologi saat ini.",
+      "isHighlight": true
+    },
+    {
+      "techId": "CPP",
+      "techName": "Embedded Lang.",
+      "techIcon": "/assets/techstack/esp.webp",
+      "techColor": "#00599c",
+      "techType": "IoT",
+      "description": "Pemrograman embedded untuk mesin, terutama IoT dan mikro prosesor.",
+      "isHighlight": true
+    },
+    {
+      "techId": "SVC",
+      "techName": "Caching & Messaging",
+      "techIcon": "/assets/techstack/redis.jpg",
+      "techColor": "#dc382d",
+      "techType": "Services",
+      "description": "Layanan pendukung dalam menyimpan data sementara dan cache serta mengirim pesan dengan sangat cepat.",
+      "isHighlight": true
+    },
+    {
+      "techId": "NETWORK",
+      "techName": "Networking",
+      "techIcon": "/assets/techstack/network.webp",
+      "techColor": "#ffffff",
+      "techType": "OTHER",
+      "description": "Teknologi jaringan yang fleksibel dan cukup umum digunakan di indonesia.",
+      "isHighlight": false
+    }
+  ],
+  "frameworks": [
+    {
+      "frameworkId": "JAKARTA",
+      "frameworkName": "Jakarta EE",
+      "frameworkIcon": "/assets/framework/jakartaee.jpg",
+      "frameworkColor": "#ee2b2f",
+      "techId": "JAVA"
+    },
+    {
+      "frameworkId": "SPRING",
+      "frameworkName": "SpringBoot",
+      "frameworkIcon": "/assets/framework/spring.webp",
+      "frameworkColor": "#6db33f",
+      "techId": "JAVA"
+    },
+    {
+      "frameworkId": "JPA",
+      "frameworkName": "JPA",
+      "frameworkIcon": "/assets/framework/jpa.jpg",
+      "frameworkColor": "#59666c",
+      "techId": "JAVA"
+    },
+    {
+      "frameworkId": "NODEJS",
+      "frameworkName": "Node.js",
+      "frameworkIcon": "/assets/framework/node.jpg",
+      "frameworkColor": "#339933",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "NEXTJS",
+      "frameworkName": "Next.js",
+      "frameworkIcon": "/assets/framework/next.jpg",
+      "frameworkColor": "#ffffff",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "ELECTRON",
+      "frameworkName": "Electron",
+      "frameworkIcon": "/assets/framework/electron.svg",
+      "frameworkColor": "#47848f",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "FLASK",
+      "frameworkName": "Flask",
+      "frameworkIcon": "/assets/framework/flask.jpg",
+      "frameworkColor": "#ffffff",
+      "techId": "PYTHON"
+    },
+    {
+      "frameworkId": "SELENIUM",
+      "frameworkName": "Selenium",
+      "frameworkIcon": "/assets/framework/selenium.jpg",
+      "frameworkColor": "#43b02a",
+      "techId": "PYTHON"
+    },
+    {
+      "frameworkId": "ESP",
+      "frameworkName": "ESP",
+      "frameworkIcon": "/assets/techstack/esp.webp",
+      "frameworkColor": "#e7352b",
+      "techId": "CPP"
+    },
+    {
+      "frameworkId": "ARDUINO",
+      "frameworkName": "Arduino",
+      "frameworkIcon": "/assets/framework/arduino.jpg",
+      "frameworkColor": "#00979d",
+      "techId": "CPP"
+    },
+    {
+      "frameworkId": "RPI",
+      "frameworkName": "RaspberryPI",
+      "frameworkIcon": "/assets/framework/rpi.webp",
+      "frameworkColor": "#c51a4a",
+      "techId": "CPP"
+    },
+    {
+      "frameworkId": "POSTGRES",
+      "frameworkName": "PostgreSQL",
+      "frameworkIcon": "/assets/framework/psql.jpg",
+      "frameworkColor": "#336791",
+      "techId": "SQL"
+    },
+    {
+      "frameworkId": "MARIADB",
+      "frameworkName": "MariaDB",
+      "frameworkIcon": "/assets/framework/mariadb.jpg",
+      "frameworkColor": "#003545",
+      "techId": "SQL"
+    },
+    {
+      "frameworkId": "REDIS",
+      "frameworkName": "Redis",
+      "frameworkIcon": "/assets/framework/redis.jpg",
+      "frameworkColor": "#dc382d",
+      "techId": "SVC"
+    },
+    {
+      "frameworkId": "SOCKET",
+      "frameworkName": "Socket",
+      "frameworkIcon": "/assets/framework/socket.svg",
+      "frameworkColor": "#ffffff",
+      "techId": "SVC"
+    },
+    {
+      "frameworkId": "FCM",
+      "frameworkName": "FCM",
+      "frameworkIcon": "/assets/framework/mqtt.jpg",
+      "frameworkColor": "#ffca28",
+      "techId": "SVC"
+    },
+    {
+      "frameworkId": "MQTT",
+      "frameworkName": "MQTT",
+      "frameworkIcon": "",
+      "frameworkColor": "#660066",
+      "techId": "SVC"
+    },
+    {
+      "frameworkId": "MIKROTIK",
+      "frameworkName": "MikroTik",
+      "frameworkIcon": "/assets/framework/mikrotik.webp",
+      "frameworkColor": "#ffffff",
+      "techId": "NETWORK"
+    },
+    {
+      "frameworkId": "REACT",
+      "frameworkName": "React",
+      "frameworkIcon": "/assets/framework/react.jpg",
+      "frameworkColor": "#5938ff",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "PY-OPENCV",
+      "frameworkName": "OpenCV",
+      "frameworkIcon": "/assets/framework/opencvpython.jpg",
+      "frameworkColor": "#ffffff",
+      "techId": "PYTHON"
+    },
+    {
+      "frameworkId": "TAILWIND",
+      "frameworkName": "Tailwind",
+      "frameworkIcon": "/assets/framework/tailwind.jpg",
+      "frameworkColor": "#38bdf8",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "SHADCN",
+      "frameworkName": "Shadcn",
+      "frameworkIcon": "/assets/framework/shadcn.jpg",
+      "frameworkColor": "#ffffff",
+      "techId": "JS"
+    },
+    {
+      "frameworkId": "FW-6957",
+      "frameworkName": "RabbitMQ",
+      "frameworkIcon": "/assets/framework/rabbitmq.svg",
+      "frameworkColor": "#ffffff",
+      "techId": "SVC"
+    }
+  ],
+  "experiences": [
+    {
+      "experienceId": "EXP-BASYS",
+      "companyId": "BASYS",
+      "timespan": "2023 - Sekarang",
+      "description": "Perusahaan di bidang software house yang memiliki client yang loyal dan berkepanjangan. Mayoritas client yang dilayani perusahaan ini bervariasi dari perbankan hingga lembaga sertifikasi profesi.",
+      "isFreelance": false,
+      "position": "Backend & Fullstack Developer",
+      "image": "/assets/company/basys.webp",
+      "gallery": [],
+      "link": "",
+      "isHighlight": true,
+      "companyName": "PT Bayu Sinergi Solusi",
+      "roleDescription": "Saya bekerja sebagai Backend Engineer selama 1 tahun pertama, namun karena tim Frontend memerlukan tim tambahan, saya mengajukan diri sebagai tim Fullstack agar dapat mengerjakan Backend dan Frontend sekaligus di beberapa project. Selain itu, saya juga menjadi PIC di beberapa project serta membantu partner baru di satu divisi untuk beradaptasi."
+    },
+    {
+      "experienceId": "EXP-NEXIN",
+      "companyId": "NEXIN",
+      "timespan": "2022 - 2023",
+      "description": "Nexin Inovasi Sejahtera (kini Nexin Maya Vision) merupakan perusahaan vendor di bidang Defense Military dengan client dari TNI dan POLRI. Memiliki client seperti PUSSENARMED, PUSSENARHANUD, PUSSIMPUR, PUSSENIF dan lainnya.",
+      "isFreelance": false,
+      "position": "Backend & IoT Engineer",
+      "image": "/assets/company/nexin.jpg",
+      "gallery": [],
+      "link": "",
+      "isHighlight": true,
+      "companyName": "PT Nexin Inovasi Sejahtera",
+      "roleDescription": "Saya bekerja sebagai Backend Engineer menggunakan Flask sebagai framework utama, hingga merambah ke project IoT dan berinteraksi dengan berbagai perangkat elektronika yang kompleks."
+    },
+    {
+      "experienceId": "EXP-KS",
+      "companyId": "KAWANSECUAN",
+      "timespan": "2023",
+      "description": "Sebuah usaha perorangan yang mengerjakan berbagai macam project IT.",
+      "isFreelance": true,
+      "position": "Fullstack + Networking Engineer",
+      "image": "/assets/company/kawansecuan.jpg",
+      "gallery": [],
+      "link": "",
+      "isHighlight": true,
+      "companyName": "KawanSecuan"
+    },
+    {
+      "experienceId": "EXP-NOVATIVE",
+      "companyId": "NOVATIVE",
+      "timespan": "2023",
+      "description": "Sebuah Tim yang menerima pembuatan Website, CMS dan Landing Page.",
+      "isFreelance": true,
+      "position": "Fullstack Developer",
+      "image": "/assets/company/novative.jpg",
+      "gallery": [],
+      "link": "",
+      "isHighlight": true,
+      "companyName": "Novative",
+      "roleDescription": "Sebagai salah satu anggota dari Tim kecil yang menangani beberapa tugas seperti penyusunan database dan pembuatan frontend berbasis react/nextjs."
+    },
+    {
+      "experienceId": "EXP-NETWORK",
+      "companyId": "NETWORK",
+      "timespan": "2020 - 2021",
+      "description": "Panggilan merancang dan membangun jaringan berskala kecil dengan MikroTik serta design login Captive Hotspot dengan HTML+CSS+JS",
+      "isFreelance": true,
+      "position": "Network Engineer",
+      "image": "/assets/company/jaringan.jpg",
+      "gallery": [],
+      "link": "",
+      "isHighlight": false,
+      "companyName": "Jasa Instalasi Jaringan"
+    }
+  ],
+  "education": [
+    {
+      "educationId": "ARS",
+      "educationName": "ARS University",
+      "degree": "Sarjana Komputer (S.Kom)",
+      "time": "2021 - 2025",
+      "description": "Menyelesaikan pendidikan berkelanjutan dengan peminatan dan fokus mendalam terhadap rekayasa perangkat lunak serta sistem data terintegrasi.",
+      "image": "/assets/education/ars.jpg",
+      "book": "Implementasi Sistem Pelaporan Bug Online untuk Mendukung Responsivitas Tim IT di PT BAYU SINERGI SOLUSI",
+      "techstack": [
+        "JAVA",
+        "JS",
+        "SQL"
+      ],
+      "isHighlight": true
+    },
+    {
+      "educationId": "SKYONE",
+      "educationName": "SMK Angkasa 1 Margahayu",
+      "degree": "Teknik Komputer & Jaringan",
+      "time": "2016 - 2019",
+      "description": "Menyelesaikan pendidikan berkelanjutan dengan peminatan dan fokus mendalam terhadap sistem komputer, bahasa pemrograman dasar hingga jaringan komputer.",
+      "image": "/assets/education/skyone.jpg",
+      "book": "",
+      "techstack": [
+        "CPP",
+        "SVC"
+      ],
+      "isHighlight": true
+    }
+  ]
+}
