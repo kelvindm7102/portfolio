@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/110x-dmjx_-l7.css","style"]
+:HL["/portfolio/_next/static/chunks/110x-dmjx_-l7.css","style"]
 :HC["/",""]
 :HL["/assets/project/das.jpg","image"]
 :HL["/assets/project/intellecta.jpg","image"]
@@ -14,4 +14,4 @@
 :HL["/assets/techstack/redis.jpg","image"]
 :HL["/assets/company/kawansecuan.jpg","image"]
 :HL["/assets/company/novative.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"nCTQ_t_6HE1pj6DW6GyiN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"V0O4yf7tlIM6lwap_OMhh"}
